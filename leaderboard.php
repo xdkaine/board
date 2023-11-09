@@ -28,7 +28,7 @@
             <tbody>
                 <?php
                 // Your PHP code for database connection and query
-                $host = 'rtecenter.site.nfoservers.com'; // Change this to your actual database host
+                $host = 'fill'; // Change this to your actual database host
                 $username = 'fill';
                 $password = 'fill';
                 $database = 'fill';
