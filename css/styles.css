@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    font-size: 50px;
+    background-color: gray;
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: gray;
+    background-repeat: initial;
+}
+
